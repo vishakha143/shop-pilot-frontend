@@ -4,7 +4,11 @@ User-facing frontend for **ShopPilot**, an AI-powered e-commerce platform.
 This application allows users to browse products, manage carts, place orders, and interact with the platform securely.
 
 ## 🚀 Live Demo
-(To be added after deployment)
+https://shop-pilot-frontend.vercel.app
+
+This is the user-facing frontend for ShopPilot.
+Users can browse products, authenticate, manage carts, and place orders.
+The frontend communicates securely with the ShopPilot backend using HTTP-only cookies.
 
 ## 🛠 Tech Stack
 - React
